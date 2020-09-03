@@ -1,0 +1,28 @@
+
+            h1{
+                background-color:rgb(114, 113, 113);
+            }
+
+        *{
+            background-color: rgb(194, 231, 243);
+        }
+
+        h2{
+            border:rgb(243, 30, 30);
+        }
+        
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    background-color: brown;
+    border: solid;
+}
